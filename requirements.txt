@@ -1,0 +1,2 @@
+pydantic>=2.6
+openai>=1.30   ; optional — only needed when LLM_MODE=openai
