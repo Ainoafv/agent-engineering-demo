@@ -1,5 +1,9 @@
 # Loom script — Adrienne / ELLMO AI (target 5 min, async instead of a call)
 
+> Interactive version (try it yourself, no install): https://ainoafv.github.io/agent-engineering-demo/
+> Repo (Python engine + tests): https://github.com/Ainoafv/agent-engineering-demo
+
+
 Record screen + voice. Two windows: editor (left) + terminal (right). Keep it calm, no rush.
 
 ---
